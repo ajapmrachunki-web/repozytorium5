@@ -1,0 +1,1 @@
+<?phpecho("kolejny plik pierwszego użytkonika-");?>
