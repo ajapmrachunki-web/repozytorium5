@@ -8,6 +8,7 @@
 <body>
     <?php
         echo("pierwszy plik");
+        echo("zmmienione przez drugiego użytkownika");
     ?>
 </body>
 </html>
