@@ -1,0 +1,1 @@
+<?php echo("drugi plik drugiego użytkownika");?>
